@@ -1,0 +1,30 @@
+.menu {
+  background-color: teal;
+  display: flex;
+  justify-content: space-between;
+}
+
+.games {
+  background-color: antiquewhite;
+display:flex;
+justify-content: space-evenly;
+flex-wrap:wrap; 
+
+}
+
+.g1{
+margin: 25px;
+border: solid;
+border-color: steelblue;
+border-radius: 10px;
+padding: 10px;
+
+}
+
+.g1 h3{
+text-align: center;
+}
+.ids p{
+text-align: center;
+}
+
